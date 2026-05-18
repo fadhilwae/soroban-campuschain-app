@@ -71,6 +71,6 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 
 ---
 
-**Stellar Notes DApp** - Securing Your Thoughts on the Blockchain
+**Campus Chain** - Securing Your Thoughts on the Blockchain
 
 smartcontract ID : CCH36YSTHUNVVWDDX7IGATX5I2RY3WQ2ZFE7QMOWVKUOXKCVHSDHC2CM
